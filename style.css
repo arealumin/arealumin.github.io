@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+    line-height:1.2;
+
+    background-color: #f9f9f9;
+    color: #333333;
+
+    width: 700px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 0;
+    color: rgb(226, 184, 127);
+    line-height: 1;
+}
+main > h2 {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(234, 213, 184);
+    margin-bottom: 15px;
+}
+hr {
+    margin-bottom: 15px;
+}
+section > h2 {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+ul>li {
+    font-size: 20px;
+    font-weight: 300;
+}
+section > h2 {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+section > p {
+    font-size: 20px;
+    font-weight: 300;
+}
